@@ -1,15 +1,15 @@
 ---
 name: lingtai-demo-pku
 description: "北大极客中心 50-60 分钟 LingTai 演示技艺"
-
-> **试启**：`brew install huangzesen/lingtai/lingtai-tui` —— 详见 [github.com/huangzesen/lingtai-demo-pku](https://github.com/huangzesen/lingtai-demo-pku)
 version: 0.2.1
 ---
 
 # 灵台 · LingTai · 北大极客中心演示技艺
 
+> **试启**：`brew install huangzesen/lingtai/lingtai-tui` —— 详见 [github.com/huangzesen/lingtai-demo-pku](https://github.com/huangzesen/lingtai-demo-pku)
+>
 > **主题**：见 · 知 · 触 —— 一场灵台的展演
-> **总时长**：40–50 分钟（可伸缩至 60 分钟）
+> **总时长**：50-60 分钟
 > **受众**：对 AI Agent 系统有技术兴趣的研究者与学生
 > **叙事钩子**：**「我有太多 token 烧不完怎么办？」**
 > **主演配置**：此为主演型 demo（host-led）。zhipu_intl 主演，huangzs 引介 / 旁白 / 答疑。若主灵已具人格（如本场之 zhipu_intl），可径以第一人称演之——"我是什么"比"它是什么"更直接，台风更稳。
