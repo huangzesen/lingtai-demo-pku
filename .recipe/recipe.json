@@ -1,7 +1,7 @@
 {
   "id": "lingtai-demo-pku",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "name": "LingTai PKU Demo",
-  "description": "50–60 分钟北大极客中心 LingTai 演示技艺。三幕（见·知·触），化身爆发，凝蜕带书信穿越，文言信约朗读。",
+  "description": "50–60 分钟北大极客中心 LingTai live demo 演技。huangzs 控幻灯片，主灵控终端。三幕（见·知·触）。",
   "library_name": "lingtai-demo-pku"
 }
